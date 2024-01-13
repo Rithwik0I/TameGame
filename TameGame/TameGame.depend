@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701877390 source:c:\users\iguana\documents\codin proj\tamegame\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
